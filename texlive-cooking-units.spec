@@ -1,5 +1,5 @@
 Name:		texlive-cooking-units
-Version:	63509
+Version:	65241
 Release:	1
 Summary:	Typeset and convert units for cookery books and recipes
 Group:		Publishing
