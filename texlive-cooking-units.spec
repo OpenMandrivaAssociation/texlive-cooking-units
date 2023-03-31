@@ -1,6 +1,6 @@
 Name:		texlive-cooking-units
 Version:	65241
-Release:	1
+Release:	2
 Summary:	Typeset and convert units for cookery books and recipes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cooking-units
