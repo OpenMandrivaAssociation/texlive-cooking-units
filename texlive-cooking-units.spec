@@ -3,7 +3,7 @@ Version:	65241
 Release:	2
 Summary:	Typeset and convert units for cookery books and recipes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cooking-units
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cooking-units
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cooking-units.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cooking-units.doc.r%{version}.tar.xz
